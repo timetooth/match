@@ -1,0 +1,47 @@
+#grid{
+    position: absolute;
+    top: 150px;
+    left: 425px;;
+width: 1000px; ;
+display:flex;
+flex-wrap:wrap;
+}
+
+h3{
+    position: absolute;
+    top: 1px;
+    left: 600px;
+    font-size: 80px;
+    font-family: "Press Start 2P";
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: 	aqua;
+}
+body{
+    background-image: url("back.jpeg");
+
+    
+}
+#update{
+    position: absolute;
+    bottom: 30px;
+    left: 430px;
+    font-size: 50px;
+    font-family: "Press Start 2P";
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: 	aqua;
+}
+#point{
+    position: absolute;
+    top: 400px;
+    left: 10px;
+    font-size: 200px;
+    font-family: "Press Start 2P";
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: 	aqua;
+}
+
+#a{
+    position: absolute;
+    right: 10px;
+    bottom: 1px;
+}
